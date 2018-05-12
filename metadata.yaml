@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40531
     wikipedia: http://armenianhouse.org/gibbons/bio-en.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41861#The-Red-Rugs-of-TarsusA-Woman-s-Record-of-the-Armenian-Massacre-of-1909
 gutenberg_issued: '2013-01-17'
 gutenberg_type: Text
 identifiers:
