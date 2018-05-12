@@ -1,0 +1,30 @@
+_repo: The-Red-Rugs-of-TarsusA-Woman-s-Record-of-the-Armenian-Massacre-of-1909_41861
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41861-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibbons, Helen Davenport
+    alias: Gibbons, Helen Davenport (Brown), Mrs.
+    birthdate: 1882
+    deathdate: 1960
+    gutenberg_agent_id: '40531'
+    url: http://www.gutenberg.org/2009/agents/40531
+    wikipedia: http://armenianhouse.org/gibbons/bio-en.html
+description: ''
+gutenberg_issued: '2013-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41861'
+  lccn: '17010364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adana (Turkey) -- History'
+- !lcsh 'Armenian massacres, 1909 -- Turkey -- Adana'
+- !lcc 'DS'
+title: 'The Red Rugs of Tarsus: A Woman''s Record of the Armenian Massacre of 1909'
+url: http://www.gutenberg.org/ebooks/41861
